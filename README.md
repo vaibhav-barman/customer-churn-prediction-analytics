@@ -177,6 +177,30 @@ Top predictors identified by the Random Forest model:
 
 ---
 
+# Power BI Dashboard
+
+## Dashboard Preview
+
+![Dashboard](images/churn_dashboard.png)
+
+### Key Metrics
+
+- Total Customers
+- Churned Customers
+- Churn Rate
+- Average Monthly Charges
+- Average Tenure
+
+### Dashboard Features
+
+- Interactive slicers
+- Churn segmentation
+- Contract analysis
+- Internet service analysis
+- Payment method analysis
+- Customer tenure trends
+---
+
 ## Author
 
 Vaibhav Barman
